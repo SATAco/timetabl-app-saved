@@ -1,3 +1,4 @@
+// OAuth configuration for SBHS authentication
 export default {
   client_id: import.meta.env.VITE_CLIENT_ID,
   client_secret: import.meta.env.VITE_CLIENT_SECRET,
