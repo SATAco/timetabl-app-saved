@@ -15,7 +15,8 @@ import {
   useToken,
 } from "@chakra-ui/react";
 import React, { useState } from "react";
-import { FaGithub, FaMoon, FaSun, MdLogout, MdSettings } from "react-icons/all";
+import { FaGithub, FaMoon, FaSun } from "react-icons/fa";
+import { MdLogout, MdSettings } from "react-icons/md";
 import { Link as RouterLink, useLocation } from "react-router-dom";
 import { Statsig } from "statsig-react";
 
